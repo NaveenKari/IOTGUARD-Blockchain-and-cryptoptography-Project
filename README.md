@@ -1,4 +1,4 @@
-# IoT-Guard
+# IoT-Guard : Enable Secure Communication and Authentication servies for IoT devices using Blockchain technology
 <p>
 <h3>Implementation environment</h3>
   
