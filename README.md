@@ -71,3 +71,21 @@ using symmetric key encryption. In this system we
 used hybrid cryptosystem with blockchain
 technology.
 </p>
+
+<h3>Description</h3>
+<p>
+  We use a highly scalable trust
+mechanism to build the clusters, allowing devices
+to join and exit the cluster more quickly. Every
+device must first join the cluster and go through a
+safe authentication process before it can
+communicate with other cluster devices. To
+provide reliable security we used hybrid
+cryptography system. ECDSA-based public-key
+encryption and decryption is used for
+communication between cluster members (CM)
+and cluster head (CH). Secret-key cryptography
+used for M2M communication, which is an AES
+based encryption/decryption method. 
+</p>
+
