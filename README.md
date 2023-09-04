@@ -5,7 +5,7 @@
 In this section we deal about the usage of laptop
 and ESP8266 environment on which we
 performed our implementation.<br>
-Laptop:
+Laptop:<br>
 The current scheme is implemented on a Windows
 11 computer with an Intel 64-bit Core i5 processor
 running at 4.5 GHz and 8GB of GDDR6 VRAM,
@@ -13,7 +13,7 @@ as well as Python Flask (python3) as the software
 configuration. We built one blockchain server,
 one cluster header, and one IoT device as part of
 our implementation of the entire process.<br>
-ESP8266:
+ESP8266:<br>
 ESP8266 is a low-cost Wi-Fi microchip with full
 TCP/IP stack and microcontroller capabilities,
 designed for Internet of Things (IoT) applications.
